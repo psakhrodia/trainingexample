@@ -1,0 +1,17 @@
+AWS drive-
+https://drive.google.com/drive/folders/1NIUrIX7Z-1nE-v0jzfAz_31Ohq8DNpu9?usp=sharing
+
+
+
+from Prashanth Nair (Trainer) to All Participants:
+sudo mkdir /var/log/cadabra
+
+
+from Prashanth Nair (Trainer) to All Participants:
+sudo yum install -y aws-kinesis-agent
+
+
+sudo vi /etc/aws-kinesis/agent.json
+
+
+sudo cp -r txnsSmall /var/log/transactions/.
